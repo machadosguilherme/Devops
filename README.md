@@ -1,1 +1,2 @@
-# Devops
+Nosso projeto consiste na elaboração de uma plataforma voltada para educação, a qual oferta uma variedade de cursos 
+voltados na área da tecnologia, sempre visando o mercado atual e as potenciais tendências futuras
